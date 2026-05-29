@@ -114,7 +114,7 @@ class Preprocessing():
         """
         [input]: This patient is 49-year-old male.
             Clinical information : Seizure (onset: 2018.05.23), P53-
-            Compared with previous 서울아산병원 2018-01-15 MR.
+            Compared with previous 세브란스병원 2018-01-15 MR.
             Findings and conclusions :
             1. About 3.0 x 2.5 x 2.2 cm sized extent heterogenous enhancing mass involving the tectum and posterior aspect of the midbrain, pons with obstructive hydrocephalus.
                 - diffusion restriction and increased CBV at the enhancing mass
