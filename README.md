@@ -1,8 +1,9 @@
 # Glioma-Report-LLMs
 
 Author: Dahyoun Lee
-Affiliation: Department of Biomedical Systems Informatics,
-             Yonsei University College of Medicine
+
+Affiliation: Department of Biomedical Systems Informatics, Yonsei University College of Medicine
+
 Email: goyom@yuhs.ac; goyom@yonsei.ac.kr
 
 Description:
