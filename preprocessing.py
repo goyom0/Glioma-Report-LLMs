@@ -91,6 +91,7 @@ class Preprocessing():
         text_edited = re.sub(combined_pattern_remove, '', text, flags=re.IGNORECASE)
 
         # DELETE the sections of clinical impression(or information), Imaging techniques, and contrast media.
+        # Randomly generated example
         query = '''I want you to act as a Doctor, Radiologist, examining the report of brain MRI images.
         Please read the following [input] and perform the following tasks STEP BY STEP:
 
