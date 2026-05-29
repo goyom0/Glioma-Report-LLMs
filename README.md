@@ -1,6 +1,5 @@
 # Glioma-Report-LLMs
 
-"""
 Author: Dahyoun Lee
 Affiliation: Department of Biomedical Systems Informatics,
              Yonsei University College of Medicine
@@ -13,4 +12,3 @@ Associated Publication:
     Suh PS, Lee D, Bang CB, et al. 
     Predicting molecular types of adult-type diffuse gliomas based on MRI reports with large language models. 
     Eur Radiol. 2026;36(5):3743-3754. doi:10.1007/s00330-025-12211-x
-"""
